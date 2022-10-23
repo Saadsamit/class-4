@@ -1,0 +1,76 @@
+#title{
+    color: aqua;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 80px;
+    text-shadow: 10px 10px 10px teal;
+}
+mark{
+    color: orange;
+    background-color: aqua;
+}
+#head{
+    background-color: beige;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: oblique;}
+img{
+    width: 50%;
+    height: 75%;
+}    
+.min{
+    width: 70%; 
+    text-indent: 50px;
+}    
+p{
+    text-align: justify;
+    font-size: 20px;
+    
+}
+#head-1{
+    background-color: antiquewhite;
+    text-align: center;
+   
+}
+#head-2{
+    background-color: azure;
+    text-align: center;
+   
+}
+#head-3{
+    background-color: bisque ;
+    text-align: center;
+}
+#head-4{
+    background-color: darkkhaki ;
+    text-align: center;
+}
+#head-5{
+    background-color: beige ;
+    text-align: center;
+}
+#head-6{
+    background-color: darkgray ;
+    text-align: center;
+}
+#end_1{
+    background-color:beige;
+}
+#end_2{
+    background-color: burlywood;
+
+}
+#end_3{
+    width: 50%;
+}
+.end{
+    background-color: aquamarine;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    font-style: italic;
+}
+#is{
+    font-size: 20px;
+}
